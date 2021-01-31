@@ -127,4 +127,4 @@ wget --no-check-certificate -O install.sh https://raw.githubusercontent.com/artx
  ```
 </details>
                           
- 
+  
